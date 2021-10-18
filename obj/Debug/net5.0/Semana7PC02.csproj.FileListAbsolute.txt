@@ -39,3 +39,44 @@ D:\GitHup_Repositorios\Semana7PC02\obj\Debug\net5.0\Semana7PC02.pdb
 D:\GitHup_Repositorios\Semana7PC02\obj\Debug\net5.0\Semana7PC02.genruntimeconfig.cache
 D:\GitHup_Repositorios\Semana7PC02\obj\Debug\net5.0\Semana7PC02.csproj.CopyComplete
 D:\GitHup_Repositorios\Semana7PC02\obj\Debug\net5.0\Razor\Views\Home\Registro.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\appsettings.Development.json
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\appsettings.json
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Semana7PC02.exe
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Semana7PC02.deps.json
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Semana7PC02.runtimeconfig.json
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Semana7PC02.runtimeconfig.dev.json
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Semana7PC02.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\ref\Semana7PC02.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Semana7PC02.pdb
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Semana7PC02.Views.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Semana7PC02.Views.pdb
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.csproj.AssemblyReference.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.AssemblyInfoInputs.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.AssemblyInfo.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.csproj.CoreCompileInputs.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.RazorAssemblyInfo.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.RazorAssemblyInfo.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\staticwebassets\Semana7PC02.StaticWebAssets.Manifest.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\staticwebassets\Semana7PC02.StaticWebAssets.xml
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\scopedcss\bundle\Semana7PC02.styles.css
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.TagHelpers.input.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.TagHelpers.output.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.RazorCoreGenerate.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Razor\Views\Home\Registro.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.RazorTargetAssemblyInfo.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.RazorTargetAssemblyInfo.cs
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.Views.pdb
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\ref\Semana7PC02.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.pdb
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.genruntimeconfig.cache
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.csproj.CopyComplete

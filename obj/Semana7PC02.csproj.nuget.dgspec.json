@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHup_Repositorios\\Semana7PC02\\Semana7PC02.csproj": {}
+    "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj": {}
   },
   "projects": {
-    "D:\\GitHup_Repositorios\\Semana7PC02\\Semana7PC02.csproj": {
+    "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHup_Repositorios\\Semana7PC02\\Semana7PC02.csproj",
+        "projectUniqueName": "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj",
         "projectName": "Semana7PC02",
-        "projectPath": "D:\\GitHup_Repositorios\\Semana7PC02\\Semana7PC02.csproj",
+        "projectPath": "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj",
         "packagesPath": "C:\\Users\\karin\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHup_Repositorios\\Semana7PC02\\obj\\",
+        "outputPath": "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -8,7 +8,7 @@
 
 <body style="background-color: green;">
 
-<form asp-action="RegistroClientes">
+<form method="POST" asp-action="RegistroClientes">
   <div asp-validation-summary="ModelOnly" class="text-danger"></div>
   <div class="form-group">
     <label class="control-label">Nombre:</label><br/>
@@ -32,8 +32,7 @@
       <option value="PERRO">PERRO</option>
       <option value="GATO">GATO</option>
     </select>          
-      
-    <br/>
+     <br/>
   </div>
    <div class="form-group">
     <label class="control-label">Descripción:</label><br/>
