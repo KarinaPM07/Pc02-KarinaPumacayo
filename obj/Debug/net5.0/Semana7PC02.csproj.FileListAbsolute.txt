@@ -80,3 +80,12 @@ D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\
 D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.pdb
 D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.genruntimeconfig.cache
 D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\obj\Debug\net5.0\Semana7PC02.csproj.CopyComplete
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Humanizer.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Npgsql.dll
+D:\GitHup_Repositorios\PC02Karina Pumacayo\Pc02-KarinaPumacayo\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

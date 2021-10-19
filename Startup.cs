@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Semana7PC02.Models;
+using Microsoft.EntityFrameworkCore;
+using Npgsql.EntityFrameworkCore.PostgreSQL;
+using Semana7PC02;
 
 namespace Semana7PC02
 {
@@ -23,7 +27,12 @@ namespace Semana7PC02
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services) //Registrar los servicios
         {
-            services.AddControllersWithViews(); //administrara los controller
+            services.AddControllersWithViews();
+            services.AddDbContext<AdopcionContext>(options => options.UseNpgsql("Host=ec2-3-213-41-172.compute-1.amazonaws.com;"+
+            "Database=desos809l2hsjp;"+
+            "Username=llmxbdsqhreyhv;"+
+            "Password=0cc59cfb4019b1011123f2db15e16be0168e000f7d18bbfb78fd3bab363097ed;"+
+            "Port=5432; SSL Mode=Require;Trust Server Certificate=true"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

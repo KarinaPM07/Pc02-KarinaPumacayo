@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj": {}
+    "d:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj": {}
   },
   "projects": {
-    "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj": {
+    "d:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj",
+        "projectUniqueName": "d:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj",
         "projectName": "Semana7PC02",
-        "projectPath": "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj",
+        "projectPath": "d:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\Semana7PC02.csproj",
         "packagesPath": "C:\\Users\\karin\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\obj\\",
+        "outputPath": "d:\\GitHup_Repositorios\\PC02Karina Pumacayo\\Pc02-KarinaPumacayo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,16 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             }
           },
           "imports": [
